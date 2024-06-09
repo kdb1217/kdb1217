@@ -1,4 +1,11 @@
-### Hi there 👋
+### Education
+- Suwon University Department of Imfomation Security (2018~)
+- 프로보노 멘토링 (2022.04 ~ 2022.11)
+- Apple Developer Academy @POSTECH 2th (2023.03 ~ 2023.12)
+
+### Awards
+- 프로보노 공모전 은상
+- 새싹톤 장려상 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdb1217&show_icons=true&theme=transparent)
 
