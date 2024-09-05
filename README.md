@@ -1,5 +1,4 @@
 ### Education
-- Suwon University Department of Imfomation Security (2018~)
 - 프로보노 멘토링 (2022.04 ~ 2022.11)
 - Apple Developer Academy @ POSTECH 2nd (2023.03 ~ 2023.12)
 
