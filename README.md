@@ -13,7 +13,7 @@
   <h3>Projects</h3>
   <ul>
     <li>PostKit 생성형 AI를 통해 소상공인의 마케팅 캡션을 대신 작성해주는 iOS 서비스 (Swift UI)</li>
-    <li>RPM RFP 제안서, 회의록 등 다양한 비정형 데이터 기반 요구사항을 업무 레벨별로 정의하고, 정의서와 화면 Mockup을 자동생성해주는 서비스 (vue) </li>
+    <li>RPM RFP 제안서, 회의록 등 다양한 비정형 데이터 기반 요구사항을 업무 레벨별로 정의하고, 정의서와 화면 Mockup을 자동생성 서비스 (vue) </li>
   </ul>
 </section>
 
