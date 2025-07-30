@@ -39,9 +39,18 @@
 <br>
 
 <section>
-  <h3>알고리즘</h3>
+  <h3>Algorithm</h3>
   <div style="display: flex; gap: 10px; align-items: center;">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mokdb" alt="BOJ Tier" />
     <img src="http://mazandi.herokuapp.com/api?handle=mokdb&theme=cold" alt="BOJ Stats" />
+  </div>
+</section>
+
+<br>
+
+<section>
+  <h3>Certificate</h3>
+  <div style="display: flex; gap: 10px; align-items: center;">
+    <li>SQLD</li>
   </div>
 </section>
