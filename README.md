@@ -51,6 +51,9 @@
 <section>
   <h3>Certificate</h3>
   <div style="display: flex; gap: 10px; align-items: center;">
-    <li>SQLD</li>
+    <ul>
+      <li>SQLD</li>
+      <li>정보처리기사</li>
+    </ul>
   </div>
 </section>
